@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zumda-SMS</string>
+    <string name="txt_no">Yo\'q</string>
+    <string name="txt_yes">Ha</string>
+    <string name="txt_is_to_send_sms">SMS habarlar yuborilsinmi?</string>
+    <string name="txt_message">SMS habar matni</string>
+    <string name="txt_save">Yuborish</string>
+    <string name="txt_sms_for_cliant">Mijozlarga yuboriluvchi habar matnini yozing</string>
+    <string name="note_colon">Eslatma:</string>
+    <string name="txt_note_text">Iltimos, matnda ism o\'rniga \n ":name" yozing, dastur avtmatik tarzda mijoz ismini qo\'yib oladi</string>
+    <string name="the_selected_file_is_empty">json fayl tanlanmagan!</string>
+    <string name="txt_secund">Soniya</string>
+</resources>
